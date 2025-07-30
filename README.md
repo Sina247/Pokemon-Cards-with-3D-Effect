@@ -6,7 +6,7 @@ A clean and responsive web app that lets you explore and collect Pokemon cards w
 
 ## 🚀 Features  
 - 🔥 **3D card effects** : Interactive 3D animations on card hover and flip.  
-- 🎴 **Explore Pokémon cards** : Browse a variety of Pokémon with detailed designs.  
+- 🎴 **Explore Pokemon cards** : Browse a variety of Pokemon with detailed designs.  
 - 📱 **Responsive design** : Works smoothly on all devices and screen sizes.  
 - 🌐 **Pure HTML, CSS and JavaScript** : Lightweight and beginner friendly.  
 - 🧩 **Easily extendable** : Add more cards, animations or features effortlessly.
